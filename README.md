@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Andrey, 3rd year NRNU MEPhI student (Information Security).
+I'm Andrey, NRNU MEPhI student (Information Security).
 
 - I’m currently working on: low-level C/C++ projects (algorithms, data structures) and Java backend labs
 - I’m currently learning `Information security`, `Pentest basics`, `Advanced C/C++`, `Spring Boot`
